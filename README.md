@@ -1,2 +1,1 @@
-# OIBGRIP
-internship task using machine learning
+parkinson diseases prediction using machine learning 
